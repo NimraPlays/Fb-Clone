@@ -1,7 +1,9 @@
 # Nimra Plays Command
 
 $ apt update
+
 $ apt upgrade
+
 $ pkg install python
 $ pkg install git
 $ pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
